@@ -7,4 +7,4 @@ After validating application identity using OAuth, queries are issued in a loop.
 
 The json is written in an external file as per required formatting.
 
-This .json file containing collected Tweets is then further used by the <Append> class to format the json suitably for indexing in Apache Lucene/Solr.
+This .json file containing collected Tweets is then further used by the Append class to format the json suitably for indexing in Apache Lucene/Solr.
