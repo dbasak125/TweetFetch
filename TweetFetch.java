@@ -148,7 +148,7 @@ public class TweetFetch {
             }
             
             //System.out.println("least Post.id:" + least_id);
-            System.out.println("\n\nnumber of tweets logged in this batch successfully: " + i + "    " + new Date().toString());
+            System.out.println("\n\nnumber of tweets logged in this batch successfully: " + k + "    " + new Date().toString());
             //System.out.println("re-query: " + j);
             
             
